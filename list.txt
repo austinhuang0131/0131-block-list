@@ -1,8 +1,8 @@
-! 2/16/2018, 11:28:25 AM https://www.textnow.com/messaging
+! TextNow.com ads
 www.textnow.com##.flex-fill.flex-row > .rotation-manager-slot
-
-! 2/16/2018, 11:28:32 AM https://www.textnow.com/messaging
 www.textnow.com###banner
-
-! 2/16/2018, 12:17:00 PM https://www.textnow.com/messaging
 www.textnow.com###rectSlotAd
+www.textnow.com##.interstitial-banner
+
+! Shmoop
+||media1.shmoop.com/images/general/shmooptube_ad_literature.png$image
