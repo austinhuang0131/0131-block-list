@@ -6,3 +6,8 @@ www.textnow.com##.interstitial-banner
 
 ! Shmoop
 ||media1.shmoop.com/images/general/shmooptube_ad_literature.png$image
+
+! RenRen (China)
+blog.renren.com###blogTwoAD05
+blog.renren.com###blogTwoAD01
+blog.renren.com##.float-left.clearfix.link_name
