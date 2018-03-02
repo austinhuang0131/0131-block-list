@@ -14,3 +14,13 @@ blog.renren.com##.float-left.clearfix.link_name
 
 ! Wikia
 wikia.com###OriginPlatformAdUnit-3969-overthepage
+
+! Higher Lower Game
+www.higherlowergame.com###adPopup
+||www.higherlowergame.com/rubicon-banner.html?ad_type=banner$subdocument,domain=www.higherlowergame.com
+||s0.2mdn.net/instream/video/client.js$script,domain=www.higherlowergame.com,important
+||imasdk.googleapis.com/js/core/bridge3.192.0_en.html$subdocument,domain=www.higherlowergame.com,important
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=www.higherlowergame.com,important
+
+! YouTube
+www.youtube.com###masthead-ad
