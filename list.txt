@@ -24,3 +24,7 @@ www.higherlowergame.com###adPopup
 
 ! YouTube
 www.youtube.com###masthead-ad
+
+! New York Times
+nytimes.com##[id^="medium-rectangle-ad-"]
+nytimes.com##[id^="story-ad-"]
