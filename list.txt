@@ -28,3 +28,12 @@ www.youtube.com###masthead-ad
 ! New York Times
 nytimes.com##[id^="medium-rectangle-ad-"]
 nytimes.com##[id^="story-ad-"]
+
+! This should kill all Carbon ads
+##.carbon-wrapper
+
+! Pandora.tv
+www.pandora.tv##.section_adarea
+www.pandora.tv###pantv_down_div
+www.pandora.tv##[id^="sAdSmall_"]
+www.pandora.tv##[id^="sAdBig_"]
