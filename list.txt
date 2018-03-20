@@ -1,3 +1,9 @@
+! Title: 0131 Block List
+! Homepage: https://austinhuang.me/0131-block-list/
+! Licence: https://creativecommons.org/licenses/by-sa/4.0/
+! Contribution: https://github.com/austinhuang0131/0131-block-list or email im@austinhuang.me
+! While this is not NC, notification is preferred for commercial use
+
 ! TextNow.com ads
 www.textnow.com##.flex-fill.flex-row > .rotation-manager-slot
 www.textnow.com###banner
@@ -7,7 +13,7 @@ www.textnow.com##.interstitial-banner
 ! Shmoop
 ||media1.shmoop.com/images/general/shmooptube_ad_literature.png$image
 
-! RenRen (China)
+! RenRen
 blog.renren.com###blogTwoAD05
 blog.renren.com###blogTwoAD01
 blog.renren.com##.float-left.clearfix.link_name
