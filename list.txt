@@ -13,7 +13,7 @@ www.textnow.com##.interstitial-banner
 ! Shmoop
 ||media1.shmoop.com/images/general/shmooptube_ad_literature.png$image
 
-! RenRen
+! RenRen (China)
 blog.renren.com###blogTwoAD05
 blog.renren.com###blogTwoAD01
 blog.renren.com##.float-left.clearfix.link_name
@@ -35,11 +35,12 @@ www.youtube.com###masthead-ad
 nytimes.com##[id^="medium-rectangle-ad-"]
 nytimes.com##[id^="story-ad-"]
 
-! This should kill all Carbon ads
-##.carbon-wrapper
-
 ! Pandora.tv
 www.pandora.tv##.section_adarea
 www.pandora.tv###pantv_down_div
 www.pandora.tv##[id^="sAdSmall_"]
 www.pandora.tv##[id^="sAdBig_"]
+
+! Pixiv
+www.pixiv.net##.ad-footer
+www.pixiv.net##.area_new > .area_inside
