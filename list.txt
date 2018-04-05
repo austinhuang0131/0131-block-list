@@ -1,5 +1,5 @@
 ! Title: 0131 Block List
-! Homepage: https://austinhuang.me/0131-block-list/
+! Homepage: https://austinhuang.me/0131-block-list
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
 ! Contribution: https://github.com/austinhuang0131/0131-block-list or email im@austinhuang.me
 ! While this is not NC, notification is preferred for commercial use
