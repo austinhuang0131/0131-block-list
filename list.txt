@@ -4,7 +4,7 @@
 ! Contribution: https://github.com/austinhuang0131/0131-block-list or email im@austinhuang.me
 ! While this is not NC, notification is preferred for commercial use
 
-! TextNow
+! TextNow.com ads
 www.textnow.com##.flex-fill.flex-row > .rotation-manager-slot
 www.textnow.com###banner
 www.textnow.com###rectSlotAd
@@ -45,7 +45,7 @@ www.pandora.tv##[id^="sAdBig_"]
 www.pixiv.net##.ad-footer
 www.pixiv.net##.area_new > .area_inside
 
-! ProgrammableWeb
+! Programmable Web
 www.programmableweb.com###apis
 www.programmableweb.com##.bottom-endor-commer-wrapper
 www.programmableweb.com##[id^="block-block-"]
@@ -53,3 +53,18 @@ www.programmableweb.com##[id^="block-block-"]
 ! Discord.me
 discord.me##.adbox
 discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
+
+! NBC News
+www.nbcnews.com##.hide.t-AdBreak.ad-break
+
+! Global News
+globalnews.ca##.story-ad
+
+! Urban Dictionary
+www.urbandictionary.com##.da-panel:nth-of-type(4)
+www.urbandictionary.com###google_ads_iframe_\/1031683\/UD_ROS_728x90_ATF_Flex_0__container__
+www.urbandictionary.com###dark_top
+www.urbandictionary.com##.panel-margin.dfp-panel
+
+! Quora
+www.quora.com##[id$="_wrapper"].content_rectangle
