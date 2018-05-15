@@ -2,6 +2,8 @@
 ! Homepage: https://austinhuang.me/0131-block-list
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
 ! Contribution: https://github.com/austinhuang0131/0131-block-list or email im@austinhuang.me
+! Redirect: https://raw.githubusercontent.com/austinhuang0131/0131-block-list/master/list.txt
+! Version: 20180514
 ! While this is not NC, notification is preferred for commercial use
 
 ! TextNow.com ads
@@ -68,3 +70,15 @@ www.urbandictionary.com##.panel-margin.dfp-panel
 
 ! Quora
 www.quora.com##[id$="_wrapper"].content_rectangle
+
+! The Fee Calculator
+thefeecalculator.com##.ad
+thefeecalculator.com##.adsbygoogle
+
+! Speedtest
+www.speedtest.net##.u-c.pure-u-custom-ad-rectangle
+
+! Convertio
+convertio.co##.content-wrapper > .blur-bg-wrap
+convertio.co##.text-center.adb_wrapper_off
+convertio.co##.content-wrapper > .destination
