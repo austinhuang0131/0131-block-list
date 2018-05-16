@@ -1,10 +1,12 @@
 ! Title: 0131 Block List
 ! Homepage: https://austinhuang.me/0131-block-list
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
-! Contribution: https://github.com/austinhuang0131/0131-block-list or email im@austinhuang.me
+! Expires: 14 days
 ! Redirect: https://raw.githubusercontent.com/austinhuang0131/0131-block-list/master/list.txt
-! Version: 20180514
+! Version: 20180516
+
 ! While this is not NC, notification is preferred for commercial use
+! im@austinhuang.me / +1 (808) 468-0313
 
 ! TextNow.com ads
 www.textnow.com##.flex-fill.flex-row > .rotation-manager-slot
@@ -82,3 +84,7 @@ www.speedtest.net##.u-c.pure-u-custom-ad-rectangle
 convertio.co##.content-wrapper > .blur-bg-wrap
 convertio.co##.text-center.adb_wrapper_off
 convertio.co##.content-wrapper > .destination
+
+! CBC.ca
+www.cbc.ca##[id^="bigbox-fixed-"]
+www.cbc.ca##.responsive
