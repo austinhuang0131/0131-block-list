@@ -3,10 +3,7 @@
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
 ! Expires: 14 days
 ! Redirect: https://raw.githubusercontent.com/austinhuang0131/0131-block-list/master/list.txt
-! Version: 20180516
-
-! While this is not NC, notification is preferred for commercial use
-! im@austinhuang.me / +1 (808) 468-0313
+! Version: 20180727
 
 ! TextNow.com ads
 www.textnow.com##.flex-fill.flex-row > .rotation-manager-slot
@@ -40,10 +37,14 @@ nytimes.com##[id^="medium-rectangle-ad-"]
 nytimes.com##[id^="story-ad-"]
 
 ! Pandora.tv
-www.pandora.tv##.section_adarea
-www.pandora.tv###pantv_down_div
-www.pandora.tv##[id^="sAdSmall_"]
-www.pandora.tv##[id^="sAdBig_"]
+pandora.tv##.section_adarea
+pandora.tv###pantv_down_div
+pandora.tv##[id^="sAdSmall_"]
+pandora.tv##[id^="sAdBig_"]
+pandora.tv##[id^="left_ad_"]
+pandora.tv###ad_toast_area
+pandora.tv###prism_paing_ad
+pandora.tv##.new_adsambox03
 
 ! Pixiv
 www.pixiv.net##.ad-footer
@@ -57,6 +58,9 @@ www.programmableweb.com##[id^="block-block-"]
 ! Discord.me
 discord.me##.adbox
 discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
+discord.me##div.dashboard-row.text-center.row > div.col-md-4:nth-of-type(2)
+discord.me##div.dashboard-row.text-center.row:nth-of-type(4)
+discord.me##.ptn-left
 
 ! NBC News
 www.nbcnews.com##.hide.t-AdBreak.ad-break
@@ -88,3 +92,29 @@ convertio.co##.content-wrapper > .destination
 ! CBC.ca
 www.cbc.ca##[id^="bigbox-fixed-"]
 www.cbc.ca##.responsive
+
+! Shellshock
+shellshock.io###bigAd
+shellshock.io###aipGameContainer
+
+! Geoguessr
+geoguessr.com##.interstitial
+
+! Lorrita.website
+loritta.website##.tingle-modal--visible.tingle-modal--noOverlayClose.tingle-modal
+loritta.website##[class$="-helpplz"]
+
+! http://www.mms.com/us/
+www.mms.com##.opened_overlay.bg
+www.mms.com##.opened_overlay.form.agegate
+
+! https://www.healthline.com/
+www.healthline.com##.css-1031od0
+www.healthline.com##.css-1eof67d
+www.healthline.com##.css-x5ikfa
+
+! ReadTheDocs
+readthedocs.io##.keep-us-sustainable
+
+! http://www.tetrisfriends.com/games/Live/game.php
+www.tetrisfriends.com###esdaiIzi
