@@ -3,7 +3,7 @@
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
 ! Expires: 14 days
 ! Redirect: https://raw.githubusercontent.com/austinhuang0131/0131-block-list/master/list.txt
-! Version: 20180727
+! Version: 20180806
 
 ! TextNow.com ads
 www.textnow.com##.flex-fill.flex-row > .rotation-manager-slot
@@ -119,8 +119,8 @@ readthedocs.io##.keep-us-sustainable
 www.tetrisfriends.com###esdaiIzi
 
 ! fc2
-*.web.fc2.com###fc2_ad_box
-*.web.fc2.com###fc2_bottom_bnr
+web.fc2.com###fc2_ad_box
+web.fc2.com###fc2_bottom_bnr
 
 ! Suumo.jp
 suumo.jp###bannerContent
