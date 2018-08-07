@@ -46,6 +46,7 @@ pandora.tv###ad_toast_area
 pandora.tv###prism_paing_ad
 pandora.tv##.new_adsambox03
 
+
 ! Pixiv
 www.pixiv.net##.ad-footer
 www.pixiv.net##.area_new > .area_inside
@@ -58,8 +59,6 @@ www.programmableweb.com##[id^="block-block-"]
 ! Discord.me
 discord.me##.adbox
 discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
-discord.me##div.dashboard-row.text-center.row > div.col-md-4:nth-of-type(2)
-discord.me##div.dashboard-row.text-center.row:nth-of-type(4)
 discord.me##.ptn-left
 
 ! NBC News
@@ -116,5 +115,13 @@ www.healthline.com##.css-x5ikfa
 ! ReadTheDocs
 readthedocs.io##.keep-us-sustainable
 
-! http://www.tetrisfriends.com/games/Live/game.php
+! Tetric
 www.tetrisfriends.com###esdaiIzi
+
+! fc2
+*.web.fc2.com###fc2_ad_box
+*.web.fc2.com###fc2_bottom_bnr
+
+! Suumo.jp
+suumo.jp###bannerContent
+suumo.jp###bannerPanel
