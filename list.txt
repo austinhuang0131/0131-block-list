@@ -2,7 +2,7 @@
 ! Homepage: https://austinhuang.me/0131-block-list
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
 ! Expires: 14 days
-! Redirect: https://raw.githubusercontent.com/austinhuang0131/0131-block-list/master/list.txt
+! Redirect: https://austinhuang.me/0131-block-list/list.txt
 ! Version: 20180808
 
 ! TextNow
