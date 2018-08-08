@@ -80,9 +80,6 @@ www.quora.com##[id$="_wrapper"].content_rectangle
 thefeecalculator.com##.ad
 thefeecalculator.com##.adsbygoogle
 
-! Speedtest
-www.speedtest.net##.u-c.pure-u-custom-ad-rectangle
-
 ! Convertio
 convertio.co##.content-wrapper > .blur-bg-wrap
 convertio.co##.text-center.adb_wrapper_off
