@@ -96,9 +96,6 @@ www.cbc.ca##.responsive
 shellshock.io###bigAd
 shellshock.io###aipGameContainer
 
-! Geoguessr
-geoguessr.com##.interstitial
-
 ! http://www.mms.com/us/
 www.mms.com##.opened_overlay.bg
 www.mms.com##.opened_overlay.form.agegate
