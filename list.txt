@@ -3,9 +3,9 @@
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
 ! Expires: 14 days
 ! Redirect: https://raw.githubusercontent.com/austinhuang0131/0131-block-list/master/list.txt
-! Version: 20180806
+! Version: 20180808
 
-! TextNow.com ads
+! TextNow
 www.textnow.com##.flex-fill.flex-row > .rotation-manager-slot
 www.textnow.com###banner
 www.textnow.com###rectSlotAd
@@ -99,18 +99,9 @@ shellshock.io###aipGameContainer
 ! Geoguessr
 geoguessr.com##.interstitial
 
-! Lorrita.website
-loritta.website##.tingle-modal--visible.tingle-modal--noOverlayClose.tingle-modal
-loritta.website##[class$="-helpplz"]
-
 ! http://www.mms.com/us/
 www.mms.com##.opened_overlay.bg
 www.mms.com##.opened_overlay.form.agegate
-
-! https://www.healthline.com/
-www.healthline.com##.css-1031od0
-www.healthline.com##.css-1eof67d
-www.healthline.com##.css-x5ikfa
 
 ! ReadTheDocs
 readthedocs.io##.keep-us-sustainable
@@ -125,3 +116,6 @@ web.fc2.com###fc2_bottom_bnr
 ! Suumo.jp
 suumo.jp###bannerContent
 suumo.jp###bannerPanel
+
+! Loritta.website
+loritta.website##.please-disable-modal
