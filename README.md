@@ -1,4 +1,4 @@
-My own AdBlock list. Removes some tedious ads and frames not covered by existing lists.
+Small adblock list. Removes some tedious ads and frames not covered by existing lists. Should support most adblockers (Tested on uBlock Origin).
 
 To subscribe to it, click [here](abp:subscribe?location=https://austinhuang.me/0131-block-list/list.txt&title=0131List).
 
@@ -15,3 +15,5 @@ For support, you can [leave an issue](https://github.com/austinhuang0131/0131-bl
 * Quora, [ReadTheDocs](https://rtfd.io), [Suumo](http://suumo.jp): Removes ads not covered by existing lists
 * [TextNow](https://textnow.com/messaging): Removes the 5 second waiting ad and some others in the UI.
 * Wikia: Removes whole-page ads
+
+*Back to my [homepage](../)...*
