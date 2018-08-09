@@ -1,7 +1,7 @@
 ! Title: 0131 Block List
 ! Homepage: https://austinhuang.me/0131-block-list
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
-! Expires: 14 days
+! Expires: 7 days
 ! Redirect: https://austinhuang.me/0131-block-list/list.txt
 ! Version: 20180808
 
@@ -57,9 +57,7 @@ www.programmableweb.com##.bottom-endor-commer-wrapper
 www.programmableweb.com##[id^="block-block-"]
 
 ! Discord.me
-discord.me##.adbox
-discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
-discord.me##.ptn-left
+discord.me##.dashboard-display-box
 
 ! NBC News
 www.nbcnews.com##.hide.t-AdBreak.ad-break
@@ -93,7 +91,7 @@ www.cbc.ca##.responsive
 shellshock.io###bigAd
 shellshock.io###aipGameContainer
 
-! http://www.mms.com/us/
+! M&M's
 www.mms.com##.opened_overlay.bg
 www.mms.com##.opened_overlay.form.agegate
 
@@ -113,3 +111,6 @@ suumo.jp###bannerPanel
 
 ! Loritta.website
 loritta.website##.please-disable-modal
+
+! WebMD
+www.webmd.com##.-mor
