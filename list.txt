@@ -120,3 +120,9 @@ www.webmd.com##.-mor
 
 ! Minecraft-Tracker
 minecraft-tracker.com##[id^="adblock"]
+
+! Ciel 103.7
+www.ciel103.com###publicite-entete
+www.ciel103.com###cboxOverlay
+www.ciel103.com###colorbox
+www.ciel103.com/assets/js/ads.js
