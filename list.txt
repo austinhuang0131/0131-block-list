@@ -3,7 +3,7 @@
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
 ! Expires: 7 days
 ! Redirect: https://austinhuang.me/0131-block-list/list.txt
-! Version: 20180808
+! Version: 20181219
 
 ! TextNow
 www.textnow.com##.flex-fill.flex-row > .rotation-manager-slot
@@ -15,8 +15,7 @@ www.textnow.com##.interstitial-banner
 ||media1.shmoop.com/images/general/shmooptube_ad_literature.png$image
 
 ! RenRen (China)
-blog.renren.com###blogTwoAD05
-blog.renren.com###blogTwoAD01
+blog.renren.com##[id^="blogTwoAD"]
 blog.renren.com##.float-left.clearfix.link_name
 
 ! Wikia
@@ -114,3 +113,10 @@ loritta.website##.please-disable-modal
 
 ! WebMD
 www.webmd.com##.-mor
+
+! Spotify (1host overkill)
+@@||guc-dealer.spotify.com^$xmlhttprequest,domain=open.spotify.com
+@@||guc-spclient.spotify.com^$xmlhttprequest,domain=open.spotify.com
+
+! Minecraft-Tracker
+minecraft-tracker.com##[id^="adblock"]
