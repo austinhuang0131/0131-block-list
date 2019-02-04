@@ -126,3 +126,13 @@ www.ciel103.com###publicite-entete
 www.ciel103.com###cboxOverlay
 www.ciel103.com###colorbox
 www.ciel103.com/assets/js/ads.js
+
+! Tumblr
+www.tumblr.com##div[id^="standalone-ad"]
+www.tumblr.com##.sidebar-ad--sticky.sidebar-ad
+
+! FC2 blog
+blog.fc2.com###fc2_bottom_bnr
+
+! xrea
+xrea.com###vdbanner
