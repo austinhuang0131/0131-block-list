@@ -6,7 +6,7 @@ For support, you can [leave an issue](https://github.com/austinhuang0131/0131-bl
 
 ## Websites covered
 * [CBC.ca](https://cbc.ca), [CIEL 103.7](http://www.ciel103.com), [Discord.me](https://discord.me), [Minecraft Tracker](https://minecraft-tracker.com/), [Shmoop](http://shmoop.com): Removes self-AD
-* [Convertio](https://convertio.co/), web.fc2.com, [Global News](https://globalnews.ca), New York Times, NBC News, [The Fee Calculator](http://thefeecalculator.com), Urban Dictionary, YouTube: Removes AD frames that significantly affects layout (Huge whitespace, etc.)
+* [Convertio](https://convertio.co/), FC2 web & blog, [Global News](https://globalnews.ca), New York Times, NBC News, [The Fee Calculator](http://thefeecalculator.com), Urban Dictionary, [XREA](http://xrea.com) and hosted sites, YouTube: Removes AD frames that significantly affects layout (Huge whitespace, etc.)
 * [Higher Lower Game](http://www.higherlowergame.com/): Unblocks certain scripts to prevent malfunctions due to overblocking, while still blocking all the ads
 * [Loritta (Discord bot)](http://loritta.website): Removes adblock warning
 * [M&M's.com](http://mms.com): Removes age-gate (Don't collect our birthdays using disguises)
