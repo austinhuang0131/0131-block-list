@@ -3,7 +3,7 @@
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
 ! Expires: 7 days
 ! Redirect: https://austinhuang.me/0131-block-list/list.txt
-! Version: 20181219
+! Version: 20190204
 
 ! TextNow
 www.textnow.com##.flex-fill.flex-row > .rotation-manager-slot
