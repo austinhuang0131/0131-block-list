@@ -1,11 +1,13 @@
 [Adblock Plus 2.0]
-! Checksum: 03512863A62D30398DCA663015A82869
 ! Title: 0131 Block List
 ! Homepage: https://austinhuang.me/0131-block-list
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
 ! Expires: 7 days
-! Redirect: https://austinhuang.me/0131-block-list/list.txt
 ! Version: 20190204
+
+! Adblock Plus refuses to read redirect properly
+! So the link is https://austinhuang.me/0131-block-list/list.txt
+! But nobody copies this anyway
 
 ! TextNow
 www.textnow.com##.flex-fill.flex-row > .rotation-manager-slot
