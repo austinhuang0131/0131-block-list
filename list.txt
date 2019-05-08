@@ -9,37 +9,29 @@
 ! So the link is https://austinhuang.me/0131-block-list/list.txt
 ! But nobody copies this anyway
 
-! TextNow
 www.textnow.com##.flex-fill.flex-row > .rotation-manager-slot
 www.textnow.com###banner
 www.textnow.com###rectSlotAd
 www.textnow.com##.interstitial-banner
 
-! Shmoop
 ||media1.shmoop.com/images/general/shmooptube_ad_literature.png$image
 
-! RenRen (China)
 blog.renren.com##[id^="blogTwoAD"]
 blog.renren.com##.float-left.clearfix.link_name
 
-! Wikia
 wikia.com###OriginPlatformAdUnit-3969-overthepage
 
-! Higher Lower Game
 www.higherlowergame.com###adPopup
 ||www.higherlowergame.com/rubicon-banner.html?ad_type=banner$subdocument,domain=www.higherlowergame.com
 ||s0.2mdn.net/instream/video/client.js$script,domain=www.higherlowergame.com,important
 ||imasdk.googleapis.com/js/core/bridge3.192.0_en.html$subdocument,domain=www.higherlowergame.com,important
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=www.higherlowergame.com,important
 
-! YouTube
 www.youtube.com###masthead-ad
 
-! New York Times
 nytimes.com##[id^="medium-rectangle-ad-"]
 nytimes.com##[id^="story-ad-"]
 
-! Pandora.tv
 pandora.tv##.section_adarea
 pandora.tv###pantv_down_div
 pandora.tv##[id^="sAdSmall_"]
@@ -49,94 +41,93 @@ pandora.tv###ad_toast_area
 pandora.tv###prism_paing_ad
 pandora.tv##.new_adsambox03
 
-
-! Pixiv
 www.pixiv.net##.ad-footer
 www.pixiv.net##.area_new > .area_inside
 
-! Programmable Web
 www.programmableweb.com###apis
 www.programmableweb.com##.bottom-endor-commer-wrapper
 www.programmableweb.com##[id^="block-block-"]
 
-! Discord.me
-discord.me##.dashboard-display-box
+discord.me##[href$="-discord-2019"]
 
-! NBC News
-www.nbcnews.com##.hide.t-AdBreak.ad-break
+www.nbcnews.com##.ad-break
 
-! Global News
 globalnews.ca##.story-ad
 
-! Urban Dictionary
 www.urbandictionary.com##.da-panel:nth-of-type(4)
 www.urbandictionary.com###google_ads_iframe_\/1031683\/UD_ROS_728x90_ATF_Flex_0__container__
 www.urbandictionary.com###dark_top
 www.urbandictionary.com##.panel-margin.dfp-panel
 
-! Quora
 www.quora.com##[id$="_wrapper"].content_rectangle
 
-! The Fee Calculator
 thefeecalculator.com##.ad
 thefeecalculator.com##.adsbygoogle
 
-! Convertio
 convertio.co##.content-wrapper > .blur-bg-wrap
 convertio.co##.text-center.adb_wrapper_off
 convertio.co##.content-wrapper > .destination
 
-! CBC.ca
 www.cbc.ca##[id^="bigbox-fixed-"]
 www.cbc.ca##.responsive
 
-! Shellshock
 shellshock.io###bigAd
 shellshock.io###aipGameContainer
 
-! M&M's
 www.mms.com##.opened_overlay.bg
 www.mms.com##.opened_overlay.form.agegate
 
-! ReadTheDocs
 readthedocs.io##.keep-us-sustainable
 
-! Tetric
-www.tetrisfriends.com###esdaiIzi
-
-! fc2
 web.fc2.com###fc2_ad_box
 web.fc2.com###fc2_bottom_bnr
 
-! Suumo.jp
 suumo.jp###bannerContent
 suumo.jp###bannerPanel
 
-! Loritta.website
 loritta.website##.please-disable-modal
 
-! WebMD
 www.webmd.com##.-mor
 
 ! Spotify (1host overkill)
 @@||guc-dealer.spotify.com^$xmlhttprequest,domain=open.spotify.com
 @@||guc-spclient.spotify.com^$xmlhttprequest,domain=open.spotify.com
 
-! Minecraft-Tracker
 minecraft-tracker.com##[id^="adblock"]
 
-! Ciel 103.7
 www.ciel103.com###publicite-entete
 www.ciel103.com###cboxOverlay
 www.ciel103.com###colorbox
 www.ciel103.com/assets/js/ads.js
 
-! Tumblr
 www.tumblr.com##div[id^="standalone-ad"]
 www.tumblr.com##.sidebar-ad--sticky.sidebar-ad
 
-! FC2 blog
 blog.fc2.com###fc2_bottom_bnr
+blog.fc2.com###e
 
-! xrea
 xrea.com###vdbanner
+
+prnt.sc##.additional
+
+www.forbes.com##.sticky.top-ad-container
+
+slate.com##.ad
+
+www.theguardian.com##.ad-slot
+
+www.ratemyprofessors.com##.ad
+www.ratemyprofessors.com##.sticky-wrapper
+
+worldofsolitaire.com###rac
+worldofsolitaire.com###rahlc
+
+www.wired.co.uk##[id^="ad_"]
+
+www.symbolab.com##.symp
+
+www.linguee.com##[id^=banner_]
+
+skribbl.io###containerFreespace > .adsbygoogle
+
+@@||media*.ledevoir.com$image
