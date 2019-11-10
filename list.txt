@@ -131,3 +131,15 @@ www.linguee.com##[id^=banner_]
 skribbl.io###containerFreespace > .adsbygoogle
 
 @@||media*.ledevoir.com$image
+
+en.wikipedia.org##.cbnnr-main
+en.wikipedia.org##.cn-fundraising
+en.wikipedia.org###frb-inline
+
+www.thestar.com##.c-related-articles
+
+www.roblox.com##.sponsored-game
+
+www.reddit.com###overlay-comment-atf
+
+www.mathway.com##.ch-bubble:has(> .ch-ad-icon)
