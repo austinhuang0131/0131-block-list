@@ -3,7 +3,7 @@
 ! Homepage: https://austinhuang.me/0131-block-list
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
 ! Expires: 7 days
-! Version: 20190508
+! Version: 20200513
 
 ! Adblock Plus refuses to read redirect properly
 ! So the link is https://austinhuang.me/0131-block-list/list.txt
