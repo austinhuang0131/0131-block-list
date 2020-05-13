@@ -53,6 +53,7 @@ discord.me##[href$="-discord-2019"]
 www.nbcnews.com##.ad-break
 
 globalnews.ca##.story-ad
+globalnews.ca##.c-ad
 
 www.urbandictionary.com##.da-panel:nth-of-type(4)
 www.urbandictionary.com###google_ads_iframe_\/1031683\/UD_ROS_728x90_ATF_Flex_0__container__
@@ -143,3 +144,5 @@ www.roblox.com##.sponsored-game
 www.reddit.com###overlay-comment-atf
 
 www.mathway.com##.ch-bubble:has(> .ch-ad-icon)
+
+||static.zhihu.com/heifetz/main.signflow.*$script
