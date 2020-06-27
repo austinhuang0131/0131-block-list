@@ -3,7 +3,7 @@
 ! Homepage: https://austinhuang.me/0131-block-list
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
 ! Expires: 7 days
-! Version: 20200513
+! Version: 20200627
 
 ! Adblock Plus refuses to read redirect properly
 ! So the link is https://austinhuang.me/0131-block-list/list.txt
@@ -148,3 +148,11 @@ www.mathway.com##.ch-bubble:has(> .ch-ad-icon)
 ! This filter disables login button + popup from Zhihu question pages (Since it constantly pops up if you're not logged in)
 ! You should still be able to login from https://zhihu.com/signin (or by clicking Zhihu logo from question pages)
 ||static.zhihu.com/heifetz/main.signflow.*$script
+
+! Removes Glitch BLM on editors only
+glitch.com##.blm-banner
+
+online.fliphtml5.com##.fh5---banner---container
+
+! Blocks some Discord tracking, see https://luna.gitlab.io/discord-unofficial-docs/science.html
+||*.discord.com/api/v6/science
