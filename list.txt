@@ -157,3 +157,5 @@ glitch.com##.blm-banner
 
 ! GitAds
 ##[href^="https://tracking.gitads.io/"]
+
+en.wikipedia.org##.ext-quick-survey-panel
