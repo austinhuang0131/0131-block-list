@@ -1,4 +1,4 @@
-Small domain-specific adblock list that covers ghost frames, self-ads and overkills from other major lists. Use as a supplement of other lists. Should support most adblockers (Tested on uBlock Origin and AdBlock Plus).
+Small domain-specific adblock list that covers ghost frames, self-ads, tracking, and overkills from other major lists. Use as a supplement of other lists. Should support most adblockers (Tested on uBlock Origin and AdBlock Plus).
 
 To subscribe to it, click [here](abp:subscribe?location=https://austinhuang.me/0131-block-list/list.txt&title=0131List).
 
