@@ -3,11 +3,9 @@
 ! Homepage: https://austinhuang.me/0131-block-list
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
 ! Expires: 7 days
-! Version: 20200627
+! Version: 20200819
 
-! Adblock Plus refuses to read redirect properly
-! So the link is https://austinhuang.me/0131-block-list/list.txt
-! But nobody copies this anyway
+! => https://austinhuang.me/0131-block-list/list.txt
 
 www.textnow.com##.flex-fill.flex-row > .rotation-manager-slot
 www.textnow.com###banner
