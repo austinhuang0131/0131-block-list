@@ -3,7 +3,7 @@
 ! Homepage: https://austinhuang.me/0131-block-list
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
 ! Expires: 7 days
-! Version: 20200819
+! Version: 20210303
 
 ! => https://austinhuang.me/0131-block-list/list.txt
 
@@ -46,7 +46,7 @@ www.programmableweb.com###apis
 www.programmableweb.com##.bottom-endor-commer-wrapper
 www.programmableweb.com##[id^="block-block-"]
 
-discord.me##[href$="-discord-2019"]
+discord.me##.discord-unit
 
 www.nbcnews.com##.ad-break
 
@@ -149,13 +149,14 @@ online.fliphtml5.com##.fh5---banner---container
 ! You should still be able to login from https://zhihu.com/signin (or by clicking Zhihu logo from question pages)
 ||static.zhihu.com/heifetz/main.signflow.*$script
 
-! Removes Glitch BLM on editors only
-glitch.com##.blm-banner
-
 ! Blocks some Discord tracking, see https://luna.gitlab.io/discord-unofficial-docs/science.html
-||*.discord.com/api/v6/science
+||*.discord.com/api/v*/science
 
 ! GitAds
 ##[href^="https://tracking.gitads.io/"]
+
+! Zonerama
+www.zonerama.com##.list-alb:not([data-size="1"]):not([data-album-id])
+www.zonerama.com##.gallery-inner:not([data-image-pattern])
 
 en.wikipedia.org##.ext-quick-survey-panel
