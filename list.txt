@@ -3,7 +3,7 @@
 ! Homepage: https://austinhuang.me/0131-block-list
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
 ! Expires: 7 days
-! Version: 20210303
+! Version: 20220411
 
 ! => https://austinhuang.me/0131-block-list/list.txt
 
@@ -134,6 +134,7 @@ skribbl.io###containerFreespace > .adsbygoogle
 en.wikipedia.org##.cbnnr-main
 en.wikipedia.org##.cn-fundraising
 en.wikipedia.org###frb-inline
+en.wikipedia.org##.ext-quick-survey-panel
 
 www.thestar.com##.c-related-articles
 
@@ -159,4 +160,5 @@ online.fliphtml5.com##.fh5---banner---container
 www.zonerama.com##.list-alb:not([data-size="1"]):not([data-album-id])
 www.zonerama.com##.gallery-inner:not([data-image-pattern])
 
-en.wikipedia.org##.ext-quick-survey-panel
+! Flickr
+www.flickr.com##.photo-page-leader-moola-view
